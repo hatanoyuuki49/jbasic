@@ -8,7 +8,7 @@ public class Hello {
         System.out.println('A'+'B');
         String message = "Javaの\"世界\"へようこそ！！";//String は文字列を表すデータ型
 
-       
+        String quote = "\""
 
         System.out.println(message);
     }

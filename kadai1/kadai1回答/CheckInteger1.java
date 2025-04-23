@@ -1,4 +1,4 @@
-package kadai1;
+package kadai1;//package
 
 import java.util.Scanner;
 
